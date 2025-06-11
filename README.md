@@ -34,8 +34,13 @@ Python 3.x
 
 Tkinter (comes built-in with Python for most system)
 
-📸 Preview (Optional)
+📸 Preview 
+
+
 ![Screenshot 2025-06-11 232249](https://github.com/user-attachments/assets/9eb57e6d-4c39-4b32-9e4b-caac85b72b4c)
+
+
+
 ![Screenshot 2025-06-11 232305](https://github.com/user-attachments/assets/1fa0b485-3cc7-47ef-a2f8-ae8fd084a4a7)
 
 📄 License
